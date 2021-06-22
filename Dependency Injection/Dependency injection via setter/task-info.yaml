@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: src/com/kovko/book/Book.java
+  visible: true
+- name: src/com/kovko/reader/BookReader.java
+  visible: true
+- name: src/com/kovko/runner/Main.java
+  visible: true
+- name: src/main/resources/fairy_tales.txt
+  visible: true

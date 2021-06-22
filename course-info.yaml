@@ -1,0 +1,12 @@
+title: Inversion of Control
+language: English
+summary: |-
+  Java course.
+  Created: Jun 14, 2021, 8:48:10 PM.
+programming_language: Java
+content:
+- Why do we need IoC
+- Dependency Injection
+- The pros and cons of DI
+- IoC container
+- Finishing the app

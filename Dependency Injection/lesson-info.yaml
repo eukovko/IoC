@@ -1,0 +1,5 @@
+content:
+- Dependency injection via constructor
+- Dependency injection via setter
+- Dependency injection via interface
+- Cyclic dependencies

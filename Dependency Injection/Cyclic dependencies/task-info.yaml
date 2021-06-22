@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: src/com/kovko/cyclic/OneService.java
+  visible: true
+- name: src/com/kovko/cyclic/AnotherService.java
+  visible: true
+- name: src/com/kovko/cyclic/YetAnotherService.java
+  visible: true
+- name: src/com/kovko/runner/Main.java
+  visible: true

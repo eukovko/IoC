@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/Main.java
+  visible: true
+- name: src/com/kovko/light/LightBulb.java
+  visible: true
+- name: src/com/kovko/appliance/DescLamp.java
+  visible: true
+- name: src/com/kovko/appliance/LightSource.java
+  visible: true
+- name: src/com/kovko/appliance/BasicLightSource.java
+  visible: true
+- name: src/com/kovko/appliance/CeilingLight.java
+  visible: true
+- name: src/com/kovko/appliance/FridgeLight.java
+  visible: true

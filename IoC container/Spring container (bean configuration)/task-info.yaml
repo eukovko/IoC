@@ -1,0 +1,18 @@
+type: theory
+files:
+- name: src/com/kovko/runner/Main.java
+  visible: true
+- name: src/com/kovko/dictionary/Dictionary.java
+  visible: true
+- name: src/com/kovko/dictionary/CsvFileDictionary.java
+  visible: true
+- name: src/com/kovko/dictionary/HashMapDictionary.java
+  visible: true
+- name: src/com/kovko/dictionary/DictProtocolDictionary.java
+  visible: true
+- name: src/com/kovko/translator/Translator.java
+  visible: true
+- name: src/com/kovko/translator/BasicTranslator.java
+  visible: true
+- name: src/com/kovko/configuration/ApplicationConfiguration.java
+  visible: true
