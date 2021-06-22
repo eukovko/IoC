@@ -5,7 +5,7 @@ import java.util.Locale;
 
 public class HashMapDictionary implements Dictionary {
 
-    private HashMap<String, String> translations;
+    private final HashMap<String, String> translations;
 
     public HashMapDictionary() {
         translations = new HashMap<>();
