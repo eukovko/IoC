@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kovko.translator.TranslatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-07T18:34:53" hostname="DESKTOP-F3JG55B" time="0.058">
+  <properties/>
+  <testcase name="testTranslator()" classname="com.kovko.translator.TranslatorTest" time="0.058"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -2,10 +2,7 @@ package com.kovko.runner;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;
-import com.kovko.dictionary.DictProtocolDictionary;
-import com.kovko.dictionary.Dictionary;
 import com.kovko.module.BasicModule;
-import com.kovko.translator.BasicTranslator;
 import com.kovko.translator.Translator;
 
 import java.util.List;

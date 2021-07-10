@@ -1,8 +1,0 @@
-com/kovko/runner/Main.java
- com.kovko.runner.Main
-com/kovko/dictionary/Dictionary.java
- com.kovko.dictionary.Dictionary
-com/kovko/translator/Translator.java
- com.kovko.translator.Translator
-com/kovko/dictionary/HashMapDictionary.java
- com.kovko.dictionary.HashMapDictionary

@@ -16,3 +16,5 @@ files:
   visible: true
 - name: src/com/kovko/module/BasicModule.java
   visible: true
+- name: src/com/kovko/injector/Injector.java
+  visible: true

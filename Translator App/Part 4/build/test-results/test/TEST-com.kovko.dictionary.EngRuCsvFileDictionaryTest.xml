@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kovko.dictionary.EngRuCsvFileDictionaryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-07-08T18:52:50" hostname="DESKTOP-F3JG55B" time="0.204">
+  <properties/>
+  <testcase name="testTranslatorCapacity()" classname="com.kovko.dictionary.EngRuCsvFileDictionaryTest" time="0.202"/>
+  <testcase name="testConstructor()" classname="com.kovko.dictionary.EngRuCsvFileDictionaryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

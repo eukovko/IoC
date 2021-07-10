@@ -1,0 +1,97 @@
+type: edu
+files:
+- name: src/com/kovko/runner/Main.java
+  visible: true
+- name: src/com/kovko/dictionary/Dictionary.java
+  visible: true
+- name: src/com/kovko/translator/Translator.java
+  visible: true
+  placeholders:
+  - offset: 31
+    length: 91
+    placeholder_text: ""
+    dependency:
+      lesson: Translator App
+      task: Part 3
+      file: src/com/kovko/translator/Translator.java
+      placeholder: 1
+      is_visible: false
+  - offset: 234
+    length: 65
+    placeholder_text: null;
+    dependency:
+      lesson: Translator App
+      task: Part 3
+      file: src/com/kovko/translator/Translator.java
+      placeholder: 2
+      is_visible: false
+- name: src/main/resources/dictionary.csv
+  visible: true
+  placeholders:
+  - offset: 12998
+    length: 52
+    placeholder_text: /* Add additional words here */
+    dependency:
+      lesson: Translator App
+      task: Part 3
+      file: src/main/resources/dictionary.csv
+      placeholder: 1
+      is_visible: false
+- name: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+  visible: true
+  placeholders:
+  - offset: 405
+    length: 4
+    placeholder_text: translation
+    dependency:
+      lesson: Translator App
+      task: Part 3
+      file: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+      placeholder: 1
+      is_visible: false
+  - offset: 439
+    length: 5
+    placeholder_text: word
+    dependency:
+      lesson: Translator App
+      task: Part 3
+      file: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+      placeholder: 2
+      is_visible: false
+  - offset: 496
+    length: 9
+    placeholder_text: translation
+    dependency:
+      lesson: Translator App
+      task: Part 3
+      file: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+      placeholder: 3
+      is_visible: false
+  - offset: 535
+    length: 4
+    placeholder_text: word
+    dependency:
+      lesson: Translator App
+      task: Part 3
+      file: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+      placeholder: 4
+      is_visible: false
+- name: test/com/kovko/dictionary/EngRuCsvFileDictionaryTest.java
+  visible: false
+- name: src/com/kovko/dictionary/EngRuCsvFileDictionary.java
+  visible: true
+  placeholders:
+  - offset: 438
+    length: 81
+    placeholder_text: String fileName
+  - offset: 565
+    length: 11
+    placeholder_text: '"UTF-8"'
+  - offset: 620
+    length: 14
+    placeholder_text: '"us"'
+  - offset: 678
+    length: 14
+    placeholder_text: '"ru"'
+- name: src/main/resources/uml.png
+  visible: true

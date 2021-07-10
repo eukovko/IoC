@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../Translator App/Translator Part 1/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Translator App/Translator Part 1/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Translator App/Translator Part 1/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Inversion_of_Control.util.main" />
+  </component>
+</module>

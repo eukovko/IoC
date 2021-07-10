@@ -1,0 +1,2 @@
+com/kovko/dictionary/EngRuCsvFileDictionaryTest.java
+ com.kovko.dictionary.EngRuCsvFileDictionaryTest

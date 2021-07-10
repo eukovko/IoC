@@ -4,11 +4,11 @@
        xsi:schemaLocation="
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean class="com.com.kovko.translator.BasicTranslator">
+    <bean class="com.com.com.com.com.kovko.com.com.kovko.com.kovko.translator.BasicTranslator">
         <constructor-arg index="0" ref="dictProtocolDictionary"/>
     </bean>
 
-    <bean id="dictProtocolDictionary" class="com.com.kovko.dictionary.DictProtocolDictionary">
+    <bean id="dictProtocolDictionary" class="com.com.com.com.com.kovko.dictionary.DictProtocolDictionary">
         <constructor-arg index="0" value="dict.org"/>
     </bean>
 

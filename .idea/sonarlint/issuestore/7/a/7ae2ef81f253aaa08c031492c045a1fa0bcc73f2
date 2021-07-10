@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–›8ρν²ζ§/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•ωί–ύÿÿÿÿ8ρν²ζ§/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ϊυ€ÿϋÿÿÿÿ8ρν²ζ§/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°–²8ρν²ζ§/
+
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Θ®ΐΣ8Ώ”ΐζ§/

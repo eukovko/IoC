@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Dependency_injection-Dependency_injection_via_setter" external.linked.project.path="$MODULE_DIR$/../../../../Dependency injection/Dependency injection via setter" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Inversion_of_Control" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Dependency injection/Dependency injection via setter">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Dependency injection/Dependency injection via setter/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Dependency injection/Dependency injection via setter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Dependency injection/Dependency injection via setter/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,2 @@
+com/kovko/translator/TranslatorTest.java
+ com.kovko.translator.TranslatorTest
