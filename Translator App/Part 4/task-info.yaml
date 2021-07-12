@@ -16,7 +16,7 @@ files:
       file: src/com/kovko/translator/Translator.java
       placeholder: 1
       is_visible: false
-  - offset: 234
+  - offset: 245
     length: 65
     placeholder_text: null;
     dependency:
@@ -76,8 +76,6 @@ files:
       file: src/com/kovko/dictionary/EngRuHashMapDictionary.java
       placeholder: 4
       is_visible: false
-- name: test/com/kovko/dictionary/EngRuCsvFileDictionaryTest.java
-  visible: false
 - name: src/com/kovko/dictionary/EngRuCsvFileDictionary.java
   visible: true
   placeholders:
@@ -95,3 +93,5 @@ files:
     placeholder_text: '"ru"'
 - name: src/main/resources/uml.png
   visible: true
+- name: test/Tests.java
+  visible: false

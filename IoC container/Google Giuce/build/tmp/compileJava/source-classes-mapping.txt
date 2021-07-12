@@ -1,0 +1,18 @@
+com/kovko/runner/Main.java
+ com.kovko.runner.Main
+com/kovko/dictionary/CsvFileDictionary.java
+ com.kovko.dictionary.CsvFileDictionary
+com/kovko/dictionary/DictProtocolDictionary.java
+ com.kovko.dictionary.DictProtocolDictionary
+com/kovko/translator/Translator.java
+ com.kovko.translator.Translator
+com/kovko/translator/BasicTranslator.java
+ com.kovko.translator.BasicTranslator
+com/kovko/module/BasicModule.java
+ com.kovko.module.BasicModule
+com/kovko/injector/Injector.java
+ com.kovko.injector.Injector
+com/kovko/dictionary/Dictionary.java
+ com.kovko.dictionary.Dictionary
+com/kovko/dictionary/HashMapDictionary.java
+ com.kovko.dictionary.HashMapDictionary

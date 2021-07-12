@@ -25,8 +25,8 @@ public class EngRuCsvFileDictionary implements Dictionary {
             for (String line = reader.readLine(); line != null; line = reader.readLine()) {
                 String[] words = line.split(DELIMITER);
                 if (words.length == 2) {
-                    String word = words[0].toLowerCase(sourceLocale).strip();
-                    String translation = words[1].toLowerCase(targetLocale).strip();
+                    String word = words[0].toLowerCase(sourceLocale).trim();
+                    String translation = words[1].toLowerCase(targetLocale).trim();
                     translations.put(word, translation);
                 }
             }

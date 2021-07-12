@@ -22,8 +22,8 @@ public class CsvFileDictionary implements Dictionary {
             for (String line = reader.readLine(); line != null; line = reader.readLine()) {
                 String[] words = line.split(DELIMITER);
                 if (words.length == 2) {
-                    String word = words[0].toLowerCase(sourceLangLocale).strip();
-                    String translation = words[1].toLowerCase(targetLangLocale).strip();
+                    String word = words[0].toLowerCase(sourceLangLocale).trim();
+                    String translation = words[1].toLowerCase(targetLangLocale).trim();
                     translations.put(word, translation);
                 }
             }

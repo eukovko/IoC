@@ -4,8 +4,6 @@ files:
   visible: true
 - name: src/com/kovko/dictionary/Dictionary.java
   visible: true
-- name: test/com/kovko/translator/TranslatorTest.java
-  visible: false
 - name: src/com/kovko/dictionary/EngRuHashMapDictionary.java
   visible: true
 - name: src/com/kovko/translator/Translator.java
@@ -14,8 +12,10 @@ files:
   - offset: 31
     length: 91
     placeholder_text: import com.kovko.dictionary.Dictionary;
-  - offset: 234
+  - offset: 245
     length: 28
     placeholder_text: "null"
 - name: src/main/resources/uml.png
-  visible: true
+  visible: false
+- name: test/Tests.java
+  visible: false

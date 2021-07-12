@@ -8,7 +8,7 @@ public class Injector {
 	private Map<Class<?>, Object> context = new HashMap<>();
 
 	public Injector() {
-		registerService();
+//		registerService();
 	}
 
 	public <T> void registerService(Class<T> type, T service){

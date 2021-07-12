@@ -6,10 +6,10 @@ import com.kovko.dictionary.EngRuCsvFileDictionary;
 
 public class Translator {
 
-    private Dictionary dictionary;
+    private final Dictionary dictionary;
 
     public Translator() {
-        dictionary = new EngRuCsvFileDictionary("dictionary.csv");
+        this.dictionary = new EngRuCsvFileDictionary("dictionary.csv");
     }
 
     public String translate(String word) {

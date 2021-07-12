@@ -16,8 +16,8 @@ files:
       file: src/com/kovko/runner/Main.java
       placeholder: 1
       is_visible: true
-  - offset: 571
-    length: 10
+  - offset: 556
+    length: 26
     placeholder_text: ""
     dependency:
       lesson: Translator App
@@ -39,7 +39,7 @@ files:
       file: src/com/kovko/translator/Translator.java
       placeholder: 1
       is_visible: false
-  - offset: 157
+  - offset: 163
     length: 21
     placeholder_text: ""
     dependency:
@@ -48,10 +48,7 @@ files:
       file: src/com/kovko/translator/Translator.java
       placeholder: 2
       is_visible: true
-  - offset: 190
-    length: 15
-    placeholder_text: dictionary
-  - offset: 208
+  - offset: 214
     length: 10
     placeholder_text: null;
     dependency:

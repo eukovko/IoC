@@ -16,7 +16,7 @@ files:
       file: src/com/kovko/translator/Translator.java
       placeholder: 1
       is_visible: false
-  - offset: 235
+  - offset: 246
     length: 44
     placeholder_text: null;
     dependency:
@@ -25,8 +25,6 @@ files:
       file: src/com/kovko/translator/Translator.java
       placeholder: 2
       is_visible: true
-- name: test/com/kovko/translator/TranslatorTest.java
-  visible: false
 - name: src/com/kovko/dictionary/EngRuHashMapDictionary.java
   visible: true
   placeholders:
@@ -75,4 +73,6 @@ files:
     length: 52
     placeholder_text: /* Put additional translations here */
 - name: src/main/resources/uml.png
-  visible: true
+  visible: false
+- name: test/Tests.java
+  visible: false

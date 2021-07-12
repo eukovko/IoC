@@ -1,10 +1,10 @@
-com/kovko/dictionary/EngRuHashMapDictionary.java
- com.kovko.dictionary.EngRuHashMapDictionary
-com/kovko/dictionary/Dictionary.java
- com.kovko.dictionary.Dictionary
 com/kovko/dictionary/EngRuCsvFileDictionary.java
  com.kovko.dictionary.EngRuCsvFileDictionary
 com/kovko/runner/Main.java
  com.kovko.runner.Main
 com/kovko/translator/Translator.java
  com.kovko.translator.Translator
+com/kovko/dictionary/Dictionary.java
+ com.kovko.dictionary.Dictionary
+com/kovko/dictionary/EngRuHashMapDictionary.java
+ com.kovko.dictionary.EngRuHashMapDictionary

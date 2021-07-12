@@ -10,7 +10,7 @@ files:
       lesson: Translator App
       task: Part 6
       file: src/com/kovko/runner/Main.java
-      placeholder: 3
+      placeholder: 1
       is_visible: true
   - offset: 233
     length: 145
@@ -20,16 +20,16 @@ files:
       lesson: Translator App
       task: Part 6
       file: src/com/kovko/runner/Main.java
-      placeholder: 1
+      placeholder: 2
       is_visible: true
-  - offset: 455
-    length: 10
+  - offset: 440
+    length: 26
     placeholder_text: ""
     dependency:
       lesson: Translator App
       task: Part 6
       file: src/com/kovko/runner/Main.java
-      placeholder: 2
+      placeholder: 3
       is_visible: false
 - name: src/com/kovko/dictionary/Dictionary.java
   visible: true
@@ -45,7 +45,7 @@ files:
       file: src/com/kovko/translator/Translator.java
       placeholder: 1
       is_visible: false
-  - offset: 157
+  - offset: 163
     length: 21
     placeholder_text: ""
     dependency:
@@ -54,16 +54,7 @@ files:
       file: src/com/kovko/translator/Translator.java
       placeholder: 2
       is_visible: false
-  - offset: 190
-    length: 15
-    placeholder_text: dictionary
-    dependency:
-      lesson: Translator App
-      task: Part 6
-      file: src/com/kovko/translator/Translator.java
-      placeholder: 4
-      is_visible: false
-  - offset: 208
+  - offset: 214
     length: 10
     placeholder_text: null;
     dependency:
@@ -165,4 +156,6 @@ files:
 - name: src/com/kovko/dictionary/DictProtocolDictionary.java
   visible: true
 - name: test/Tests.java
+  visible: false
+- name: src/main/resources/uml.png
   visible: false

@@ -1,0 +1,216 @@
+type: edu
+files:
+- name: src/com/kovko/runner/Main.java
+  visible: true
+  placeholders:
+  - offset: 27
+    length: 204
+    placeholder_text: import com.kovko.translator.Translator;
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/runner/Main.java
+      placeholder: 1
+      is_visible: false
+  - offset: 306
+    length: 203
+    placeholder_text: /* Read application arguments in order to configure translator
+      */
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/runner/Main.java
+      placeholder: 2
+      is_visible: true
+  - offset: 542
+    length: 38
+    placeholder_text: ""
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/runner/Main.java
+      placeholder: 3
+      is_visible: true
+  - offset: 590
+    length: 242
+    placeholder_text: |-
+      String word = "car";
+              String translation = translator.translate(word);
+              System.out.println(translation);
+- name: src/com/kovko/dictionary/Dictionary.java
+  visible: true
+- name: src/com/kovko/translator/Translator.java
+  visible: true
+  placeholders:
+  - offset: 31
+    length: 39
+    placeholder_text: ""
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/translator/Translator.java
+      placeholder: 1
+      is_visible: false
+  - offset: 163
+    length: 21
+    placeholder_text: ""
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/translator/Translator.java
+      placeholder: 2
+      is_visible: false
+  - offset: 214
+    length: 10
+    placeholder_text: null;
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/translator/Translator.java
+      placeholder: 3
+      is_visible: false
+- name: src/main/resources/dictionary.csv
+  visible: true
+  placeholders:
+  - offset: 12998
+    length: 52
+    placeholder_text: /* Add additional words here */
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/main/resources/dictionary.csv
+      placeholder: 1
+      is_visible: false
+- name: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+  visible: true
+  placeholders:
+  - offset: 405
+    length: 4
+    placeholder_text: translation
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+      placeholder: 1
+      is_visible: false
+  - offset: 439
+    length: 5
+    placeholder_text: word
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+      placeholder: 2
+      is_visible: false
+  - offset: 496
+    length: 9
+    placeholder_text: translation
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+      placeholder: 3
+      is_visible: false
+  - offset: 535
+    length: 4
+    placeholder_text: word
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/dictionary/EngRuHashMapDictionary.java
+      placeholder: 4
+      is_visible: false
+- name: src/com/kovko/dictionary/EngRuCsvFileDictionary.java
+  visible: true
+  placeholders:
+  - offset: 438
+    length: 81
+    placeholder_text: String fileName
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/dictionary/EngRuCsvFileDictionary.java
+      placeholder: 1
+      is_visible: false
+  - offset: 565
+    length: 11
+    placeholder_text: '"UTF-8"'
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/dictionary/EngRuCsvFileDictionary.java
+      placeholder: 2
+      is_visible: false
+  - offset: 620
+    length: 14
+    placeholder_text: '"us"'
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/dictionary/EngRuCsvFileDictionary.java
+      placeholder: 3
+      is_visible: false
+  - offset: 678
+    length: 14
+    placeholder_text: '"ru"'
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/dictionary/EngRuCsvFileDictionary.java
+      placeholder: 4
+      is_visible: false
+- name: src/com/kovko/dictionary/DictProtocolDictionary.java
+  visible: true
+- name: src/com/kovko/context/Context.java
+  visible: true
+  placeholders:
+  - offset: 28
+    length: 131
+    placeholder_text: |-
+      import com.kovko.dictionary.Dictionary;
+      import com.kovko.translator.Translator;
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/context/Context.java
+      placeholder: 1
+      is_visible: false
+  - offset: 308
+    length: 77
+    placeholder_text: /* Initialize components here */
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/context/Context.java
+      placeholder: 2
+      is_visible: false
+  - offset: 512
+    length: 31
+    placeholder_text: "null"
+    dependency:
+      lesson: Translator App
+      task: Part 8
+      file: src/com/kovko/context/Context.java
+      placeholder: 3
+      is_visible: false
+- name: test/Tests.java
+  visible: false
+- name: src/com/kovko/container/Container.java
+  visible: true
+  placeholders:
+  - offset: 30
+    length: 183
+    placeholder_text: ""
+  - offset: 623
+    length: 208
+    placeholder_text: /* Register services and components */
+- name: src/com/kovko/input/WordSource.java
+  visible: true
+- name: src/com/kovko/output/TranslationOutput.java
+  visible: true
+- name: src/com/kovko/input/ConsoleWordSource.java
+  visible: true
+- name: src/com/kovko/output/ConsoleTranslationOutput.java
+  visible: true
+- name: src/main/resources/uml.png
+  visible: false

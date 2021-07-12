@@ -5,10 +5,10 @@ import com.kovko.dictionary.EngRuHashMapDictionary;
 
 public class Translator {
 
-    private Dictionary dictionary;
+    private final Dictionary dictionary;
 
     public Translator() {
-        dictionary = new EngRuHashMapDictionary();
+        this.dictionary = new EngRuHashMapDictionary();
     }
 
     public String translate(String word) {

@@ -4,7 +4,7 @@ import com.kovko.dictionary.Dictionary;
 
 public class Translator {
 
-    private Dictionary dictionary;
+    private final Dictionary dictionary;
 
     public Translator(Dictionary dictionary) {
         this.dictionary = dictionary;

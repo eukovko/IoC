@@ -1,0 +1,8 @@
+com/kovko/cyclic/AnotherService.java
+ com.kovko.cyclic.AnotherService
+com/kovko/runner/Main.java
+ com.kovko.runner.Main
+com/kovko/cyclic/YetAnotherService.java
+ com.kovko.cyclic.YetAnotherService
+com/kovko/cyclic/OneService.java
+ com.kovko.cyclic.OneService

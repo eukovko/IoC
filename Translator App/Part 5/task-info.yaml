@@ -7,9 +7,9 @@ files:
     length: 146
     placeholder_text: /* Read application arguments in order to configure translator
       */
-  - offset: 364
-    length: 53
-    placeholder_text: ""
+  - offset: 349
+    length: 69
+    placeholder_text: new Translator()
 - name: src/com/kovko/dictionary/Dictionary.java
   visible: true
 - name: src/com/kovko/translator/Translator.java
@@ -24,10 +24,10 @@ files:
       file: src/com/kovko/translator/Translator.java
       placeholder: 1
       is_visible: false
-  - offset: 209
+  - offset: 215
     length: 81
     placeholder_text: ""
-  - offset: 315
+  - offset: 326
     length: 81
     placeholder_text: null;
     dependency:
@@ -126,7 +126,7 @@ files:
       file: src/com/kovko/dictionary/EngRuCsvFileDictionary.java
       placeholder: 4
       is_visible: false
+- name: src/main/resources/uml.png
+  visible: false
 - name: test/Tests.java
   visible: false
-- name: src/main/resources/uml.png
-  visible: true
