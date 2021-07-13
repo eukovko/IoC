@@ -1,8 +1,0 @@
-com/kovko/runner/Runner.java
- com.kovko.runner.Runner
-com/kovko/vehicle/Car.java
- com.kovko.vehicle.Car
-com/kovko/engine/Engine.java
- com.kovko.engine.Engine
-com/kovko/engine/BasicEngine.java
- com.kovko.engine.BasicEngine
