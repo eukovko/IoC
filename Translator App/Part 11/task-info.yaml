@@ -21,7 +21,7 @@ files:
       task: Part 10
       file: src/com/kovko/runner/Main.java
       placeholder: 2
-      is_visible: false
+      is_visible: true
   - offset: 642
     length: 38
     placeholder_text: ""
@@ -30,7 +30,7 @@ files:
       task: Part 10
       file: src/com/kovko/runner/Main.java
       placeholder: 3
-      is_visible: false
+      is_visible: true
   - offset: 690
     length: 242
     placeholder_text: |-
@@ -42,7 +42,7 @@ files:
       task: Part 10
       file: src/com/kovko/runner/Main.java
       placeholder: 4
-      is_visible: false
+      is_visible: true
 - name: src/com/kovko/dictionary/Dictionary.java
   visible: true
 - name: src/com/kovko/translator/Translator.java
