@@ -1,9 +1,12 @@
 package com.kovko.input;
 
+import org.springframework.stereotype.Component;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+@Component
 public class ConsoleWordSource implements WordSource {
 
 	@Override

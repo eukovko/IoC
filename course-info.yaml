@@ -7,5 +7,4 @@ programming_language: Java
 content:
 - Translator App
 - IoC patterns
-- IoC container
 - Dependency injection
